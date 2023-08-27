@@ -1,0 +1,16 @@
+C:\Users\crist\source\repos\IoException\IoException\bin\Debug\net5.0\IoException.exe
+C:\Users\crist\source\repos\IoException\IoException\bin\Debug\net5.0\IoException.deps.json
+C:\Users\crist\source\repos\IoException\IoException\bin\Debug\net5.0\IoException.runtimeconfig.json
+C:\Users\crist\source\repos\IoException\IoException\bin\Debug\net5.0\IoException.runtimeconfig.dev.json
+C:\Users\crist\source\repos\IoException\IoException\bin\Debug\net5.0\IoException.dll
+C:\Users\crist\source\repos\IoException\IoException\bin\Debug\net5.0\ref\IoException.dll
+C:\Users\crist\source\repos\IoException\IoException\bin\Debug\net5.0\IoException.pdb
+C:\Users\crist\source\repos\IoException\IoException\obj\Debug\net5.0\IoException.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\IoException\IoException\obj\Debug\net5.0\IoException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\IoException\IoException\obj\Debug\net5.0\IoException.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\IoException\IoException\obj\Debug\net5.0\IoException.AssemblyInfo.cs
+C:\Users\crist\source\repos\IoException\IoException\obj\Debug\net5.0\IoException.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\IoException\IoException\obj\Debug\net5.0\IoException.dll
+C:\Users\crist\source\repos\IoException\IoException\obj\Debug\net5.0\ref\IoException.dll
+C:\Users\crist\source\repos\IoException\IoException\obj\Debug\net5.0\IoException.pdb
+C:\Users\crist\source\repos\IoException\IoException\obj\Debug\net5.0\IoException.genruntimeconfig.cache
